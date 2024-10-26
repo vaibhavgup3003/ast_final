@@ -61,7 +61,7 @@ The Rule Engine Application allows users to create logical rules, combine multip
 ### Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/vaibhavgup3003/ast_final.git
    cd <repository-directory>
    ```
 2. **Install Required Packages**:
