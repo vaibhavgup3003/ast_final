@@ -3,6 +3,9 @@
 This application is a 3-tier rule engine designed to evaluate user eligibility based on specific rules involving attributes like age, department, income, and experience. Utilizing an Abstract Syntax Tree (AST), the application supports rule creation, combination, and evaluation, with a simple UI and backend built using Flask. The application can store rules in a MySQL database for persistence and uses various operations for rule evaluation.
 
 ---
+## Demonstration
+[![Demo Video](https://img.youtube.com/vi/0_ShqBxrZ6M/0.jpg)](https://www.youtube.com/watch?v=0_ShqBxrZ6M)
+
 
 ## Table of Contents
 1. [Overview](#overview)
